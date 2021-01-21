@@ -13,7 +13,6 @@ summary: A simple top-down asteroid shooting game my team created for our final 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/Project 3.png">
   <img class="ui image" src="../images/Project 3 Controls.png">
   <img class="ui image" src="../images/Project 3 Gameplay.png">
   <img class="ui image" src="../images/Project 3 Game Over.png">
