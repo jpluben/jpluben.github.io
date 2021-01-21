@@ -18,7 +18,7 @@ summary: A simple top-down asteroid shooting game my team created for our final 
   <img class="ui image" src="../images/Project 3 Game Over.png">
 </div>
 
-For our final project in ICS 111, we were tasked to create a game using Java. Our team of three decided on creating a simple top-down asteroid shooting game. I was tasked with coding the movement for the ship, bullets, and asteroids, along with the hit detection for those objects. This project was one of the firsts where I worked with a group for coding.
+For our final project in ICS 111, we were tasked with creating a game using Java. Our team of three decided on creating a simple top-down asteroid shooting game. I was tasked with coding the movement for the ship, bullets, and asteroids, along with the hit detection for those objects. This project was one of the firsts where I worked with a group for coding.
 
 A demo of the game can be seen linked here on <a href="https://youtu.be/kBpOlnwq6TI">Youtube</a>
 
