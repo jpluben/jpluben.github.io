@@ -4,7 +4,6 @@ type: project
 published: true
 image: images/Project 3.png
 title: ICS 111 Final Project
-permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-08
 labels:
