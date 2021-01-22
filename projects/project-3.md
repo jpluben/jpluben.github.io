@@ -13,7 +13,7 @@ labels:
 summary: My first experience with the terminal and command line via a video game called Hacknet.
 ---
 
-<div class="ui medium rounded images">
+<div class="ui large rounded images">
 <img class="ui image" src="../images/Hacknet/HacknetGameplay.png">
 </div>
 
