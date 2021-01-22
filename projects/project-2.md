@@ -1,17 +1,15 @@
 ---
 layout: project
 type: project
-published: false
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+published: true
+image: images/discordBot.png
+title: Discord bot
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-09
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Node.js
+  - Atom Text Editor
 summary: A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
