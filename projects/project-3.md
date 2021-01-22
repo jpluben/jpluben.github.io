@@ -2,61 +2,28 @@
 layout: project
 type: project
 published: false
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/Hacknet/HacknetIcon.png
+title: First Time Experience with Command Line via Hacknet
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2016-07-07
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Console
+  - Gaming
+summary: My first experience with the console and command line via a video game called Hacknet.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<div class="ui small rounded images">
+<img class="ui image" src="../images/Hacknet/HacknetGameplay.png">
+</div>
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+# First Experience with cmd.exe
 
-To give you a flavor of the game, here is an excerpt from one run:
+My first experience with the command line came from a game I like called Hacknet. The game simulated computer hacking, albeit very gamified. The main interaction with the video game was via a console which I had to get accustomed to in order to play the game. As I have never used console commands before, it took quite some time to naturally get the feeling down of typing a command and knowing what it does. As the game is about simulated computer hacking, various tasks are provided which requires the player to navigate through various computers by running command lines to access certain files/directories and executing programs.
 
-<hr>
+# Having Fun Navigating the Command Line
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+The further you progress in the game, the more fun it becomes. There are timed sections where you would need to be quick on typing commands or risk failing the task. Typing out basic commands like cd, scp, mv, cat, vi, and rm became second nature when I play the game. It was very helpful that I am a fast typer and can navigate through the command line quickly, making it at some points of the game a fast and thrilling adventure.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+# What I have learned
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+The game has taught me the very basic commands of a command line. This proved useful because I became quickly accustomed to using the command line for tasks in ICS 212.
