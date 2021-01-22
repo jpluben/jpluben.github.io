@@ -15,7 +15,7 @@ summary: My first experience with JavaScript and coding.
 
 # Impromptu Introduction to Coding
 
-<div class="ui medium rounded images">
+<div class="ui small rounded images">
 <img class="ui image" src="../images/DiscordBot/one bot.png">
 </div>
 
