@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "Cyber Security",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
       "name": "Computer Building",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cyber Security",
       "keywords": [
       ]
     },
