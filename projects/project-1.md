@@ -8,6 +8,7 @@ title: ICS 111 Final Project
 date: 2019-12-08
 labels:
   - Java
+  - Eclipse IDE
 summary: A simple top-down asteroid shooting game my team created for our final project in ICS 111.
 ---
 
