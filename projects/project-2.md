@@ -5,7 +5,7 @@ published: true
 image: images/DiscordBot/DiscordIcon.png
 title: Discord bot
 # All dates must be YYYY-MM-DD format!
-date: 2019-09
+date: 2019-09-04
 labels:
   - Javascript
   - Node.js
