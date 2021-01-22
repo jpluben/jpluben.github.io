@@ -15,7 +15,7 @@ summary: My first experience with JavaScript and coding.
 
 # Impromptu Introduction to Coding
 
-<img class="ui medium right floated rounded image" src="../images/DiscordBot/one bot.png">
+<img class="ui image" src="../images/DiscordBot/one bot.png">
 
 When discord was just starting out, I became interested about how various bots worked on the platform. This piqued interest led me to creating a bot on discord as a hobby. At the time, I had no prior coding experience. Multiple coding languages were used to make a discord bot, but a specific tutorial I found on Youtube used a JavaScript flavor known as Node.js, which I opted to use for my own bot. From there, I began learning basic JavaScript to create my bot. I grew accustomed to using the Atom Text Editor for coding as well.
 
@@ -23,15 +23,15 @@ When discord was just starting out, I became interested about how various bots w
 
 As I was essentially new to coding and haven't coded anything prior to creating the bot, I only did simple coding where if I typed a certain message in discord, the bot would respond with a message.
 
-<img class="ui medium right floated rounded image" src="../images/DiscordBot/ping.png">
+<img class="ui small image" src="../images/DiscordBot/ping.png">
 
 At first, I tested out various strings to see whether the bot could detect them and then in turn send a message in discord. Using trial and error, I managed to get it right. When I've gotten the messages down, I started using the discord API more by having the bot detect character IDs and returning them in messages.
 
-<img class="ui medium right floated rounded image" src="../images/DiscordBot/PetHeadSuccess.png">
+<img class="ui small image" src="../images/DiscordBot/PetHeadSuccess.png">
 
 As experience grew, I began experimenting with javascript random to upload random pictures from the bot from a set list of images I had on my computer. I also tried mimicking a popular pokemon discord bot command.
 
-<img class="ui medium right floated rounded image" src="../images/DiscordBot/pokemon.png">
+<img class="ui small image" src="../images/DiscordBot/pokemon.png">
 
 # What I have learned
 
