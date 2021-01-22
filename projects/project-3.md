@@ -7,9 +7,10 @@ title: First Time Experience with Command Line via Hacknet
 # All dates must be YYYY-MM-DD format!
 date: 2016-07-07
 labels:
-  - Console
+  - Terminal
+  - Command Line
   - Gaming
-summary: My first experience with the console and command line via a video game called Hacknet.
+summary: My first experience with the terminal and command line via a video game called Hacknet.
 ---
 
 <div class="ui small rounded images">
@@ -18,7 +19,7 @@ summary: My first experience with the console and command line via a video game 
 
 # First Experience with cmd.exe
 
-My first experience with the command line came from a game I like called Hacknet. The game simulated computer hacking, albeit very gamified. The main interaction with the video game was via a console which I had to get accustomed to in order to play the game. As I have never used console commands before, it took quite some time to naturally get the feeling down of typing a command and knowing what it does. As the game is about simulated computer hacking, various tasks are provided which requires the player to navigate through various computers by running command lines to access certain files/directories and executing programs.
+My first experience with the command line came from a game I like called Hacknet. The game simulated computer hacking, albeit very gamified. The main interaction with the video game was via a terminal which I had to get accustomed to in order to play the game. As I have never used terminal commands before, it took quite some time to naturally get the feeling down of typing a command and knowing what it does. As the game is about simulated computer hacking, various tasks are provided which requires the player to navigate through various computers by running command lines to access certain files/directories and executing programs.
 
 # Having Fun Navigating the Command Line
 
