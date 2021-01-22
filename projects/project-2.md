@@ -16,7 +16,7 @@ summary: My first experience with JavaScript and coding.
 # Impromptu Introduction to Coding
 
 <img class="ui medium right floated rounded image" src="../images/DiscordBot/one bot.png">
-When discord was just starting out, I became interested about how various bots worked on the platform. This piqued interest led me to creating a bot on discord as a hobby. At the time, I had no prior coding experience. Multiple coding languages were used to make a discord bot, but a specific tutorial I found on Youtube used a JavaScript flavor known as Node.js, which I opted to use for my own bot. From there, I began learning basic JavaScript to create my bot.
+When discord was just starting out, I became interested about how various bots worked on the platform. This piqued interest led me to creating a bot on discord as a hobby. At the time, I had no prior coding experience. Multiple coding languages were used to make a discord bot, but a specific tutorial I found on Youtube used a JavaScript flavor known as Node.js, which I opted to use for my own bot. From there, I began learning basic JavaScript to create my bot. I grew accustomed to using the Atom Text Editor for coding as well.
 
 # What Did My Bot Do?
 
