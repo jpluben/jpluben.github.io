@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: false
+published: true
 image: images/Hacknet/HacknetIcon.png
 title: First Time Experience with Command Line via Hacknet
 # All dates must be YYYY-MM-DD format!
