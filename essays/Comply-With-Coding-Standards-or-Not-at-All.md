@@ -16,13 +16,9 @@ When I first started programming my Discord bot, I didn't know nor did I abide b
 ## A week of using ESLint with IntelliJ
 
 Although following coding standards is a must nowadays, I'll be honest. I don't usually always follow ESLint while coding. Even though ESLint helps significantly with fixing the appearance of the code, it annoys the hell out of me when I see a ton of red squiggly lines attached to errors. I separate my functions with multiple spaces so I can visually tell them apart. ESLint doesn't like multiple spaced lines and will put a huge error in between them, showering the code with red squiggly lines. It's truly painful abiding by the ESLint coding standard while writing code.
-<div class="ui medium rounded images">
 <img class="ui small image" src="../images/Comply-Essay/unfixed-code.png">
-</div>
 That's why I usually either ignore ESLint completely or disable it until the very end where I have tested my code and know that it works. Only then would I fix any warnings that popped up, which are usually only appearance issues. The spaced out functions? Gone. Some lines of code not typed correctly to comply to standards? Reformatted. I check all of the appearance errors at the end. When that green checkmark appears, that's when I can be truly done with the code.
-<div class="ui medium rounded images">
 <img class="ui small image" src="../images/Comply-Essay/fixed-code.png">
-</div>
 
 ## Being okay with coding standards
 
