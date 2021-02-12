@@ -5,6 +5,8 @@ title: Comply With Coding Standards or Not at All
 date: 2021-02-11
 labels:
   - JavaScript
+  - IntelliJ
+  - ESLint
   - Learning
 ---
 
