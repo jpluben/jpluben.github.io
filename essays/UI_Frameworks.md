@@ -24,7 +24,6 @@ One thing that I can say though is that UI Frameworks are not a necessity, but t
 
 My history of browser webpage using basic HTML and CSS | My history of browser webpage incorporating Semantics UI
 ------------------------------------------------------ | --------------------------------------------------------
-
 <img class="ui image" src="../images/UI-Essay/history-basic.png" height="250px" alt="History WOD with basic HTML and CSS"> | <img class="ui image" src="../images/UI-Essay/history-semantics.png" height="250px" alt="History WOD incorporating Semantic UI">
 
 ## Then why bother learning UI Frameworks?
