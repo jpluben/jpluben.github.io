@@ -18,12 +18,12 @@ create an engaging and informative essay about UI Frameworks. You might want to 
 <div class="ui two column">
 <div class="ui column">
 2005 Youtube website
-<img class="ui image" src="../images/UI-Essay/yt-html.png" height="100px" alt="Youtube 2005">
+<img class="ui image" src="../images/UI-Essay/yt-html.png" height="250px" alt="Youtube 2005">
 </div>
 
 <div class="ui column">
 Modern Youtube website
-<img class="ui image" src="https://cdn.vox-cdn.com/thumbor/lV9t0Uh2ZZ6EGv-h11MzbFxUwe4=/0x0:1200x800/1400x933/filters:focal(504x304:696x496):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65784178/homepage.0.jpeg" height="100px" alt="Youtube now">
+<img class="ui image" src="https://cdn.vox-cdn.com/thumbor/lV9t0Uh2ZZ6EGv-h11MzbFxUwe4=/0x0:1200x800/1400x933/filters:focal(504x304:696x496):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65784178/homepage.0.jpeg" height="250px" alt="Youtube now">
 </div>
 </div>
 
@@ -36,8 +36,8 @@ I say that UI Frameworks is not a necessity, but that's mainly because everythin
 
 
 My history of browser webpage using basic HTML and CSS
-<img class="ui image" src="../images/UI-Essay/history-basic.png" height="500px" alt="History WOD with basic HTML and CSS">
+<img class="ui image" src="../images/UI-Essay/history-basic.png" height="250px" alt="History WOD with basic HTML and CSS">
 
 My history of browser webpage incorporating Semantics UI
-<img class="ui image" src="../images/UI-Essay/history-semantics.png" height="500px" alt="History WOD incorporating Semantic UI">
+<img class="ui image" src="../images/UI-Essay/history-semantics.png" height="250px" alt="History WOD incorporating Semantic UI">
 
