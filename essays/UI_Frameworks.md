@@ -21,7 +21,11 @@ When I started learning about HTML and CSS, I just learned the basics. Creating 
 
 One thing that I can say though is that UI Frameworks are not a necessity, but that's mainly because everything can still be done using raw HTML and CSS. UI Frameworks just provides shortcuts for using those tools. I think it's similar to the argument I made for coding styles where they aren't necessary, but it is helpful to have them. I believe that if you're a master at raw HTML and CSS, the most you'll get out of using a UI Framework is the reduction of code lines, after going through the frustration of having to learn it though. That being said, if you're someone like me who's just starting to learn the basics of HTML and CSS, UI Frameworks are great stepping stones for learning.
 
-My history of browser webpage using basic HTML and CSS <img class="ui image" src="../images/UI-Essay/history-basic.png" height="250px" alt="History WOD with basic HTML and CSS"> | My history of browser webpage incorporating Semantics UI <img class="ui image" src="../images/UI-Essay/history-semantics.png" height="250px" alt="History WOD incorporating Semantic UI">
+
+My history of browser webpage using basic HTML and CSS | My history of browser webpage incorporating Semantics UI
+------------------------------------------------------ | --------------------------------------------------------
+
+<img class="ui image" src="../images/UI-Essay/history-basic.png" height="250px" alt="History WOD with basic HTML and CSS"> | <img class="ui image" src="../images/UI-Essay/history-semantics.png" height="250px" alt="History WOD incorporating Semantic UI">
 
 ## Then why bother learning UI Frameworks?
 
